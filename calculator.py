@@ -27,3 +27,5 @@ div(2,2)
 pow(2,5)
 rem(3,2)
 neg(5)
+
+print("Thank you!")
